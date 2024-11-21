@@ -1,0 +1,42 @@
+div{
+    text-align: center;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+    color: #000;
+}
+
+.main-p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight:400 ;
+    color:#000 ;
+}
+
+#btnClick{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+
+#btnClick:hover{
+    background-color:#008000;
+}   
+
+#quotesOutput{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight:400 ;
+    color:#000 ;
+}
+
+#outherOutput{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight:400 ;
+    color:#000 ;
+}
